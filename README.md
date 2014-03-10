@@ -2,4 +2,7 @@ Utilizado para executar php via linha de comando no windows
 
 Entre na pasta php55-win pelo ms-dos e execute o comando add-php-path.bat
 
-Agora é só ir na pasta onde está seu projeto e executar o arquivo que precisa ex: php teste.php
+Agora ï¿½ sï¿½ ir na pasta onde estï¿½ seu projeto e executar o arquivo que precisa ex: php teste.php
+
+
+Caso nÃ£o funcione basta adicionar MSVCR110.dll na pasta que estÃ¡ o php55 win.
